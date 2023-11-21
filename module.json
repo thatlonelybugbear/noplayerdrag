@@ -25,7 +25,7 @@
     "compatibility": {
       "minimum": 9,
       "verified": 10,
-      "maximum": 10
+      "maximum": 11
     },
     "flags": {
       "manifestPlusVersion": "1.2.0",
